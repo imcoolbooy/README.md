@@ -1,4 +1,4 @@
-![Logo](https://i.ibb.co/ppJGPN9/IMG-20251210-003443-543.jpg)
+![Logo](https://ibb.co/rJ4Ttq1.jpg)
 
 # 🤝 HELLO... ➡️➡️➡️ HI IM-COOL-BOOY
 
