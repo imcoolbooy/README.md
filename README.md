@@ -1,6 +1,5 @@
-![Coolbooy's Logo](https://i.ibb.co/bMTKN7jN/IMG-20251210-003443-543.jpg)
-
-# 🤝 HELLO... ➡️➡️➡️ HI IM-COOL-BOOY 🥰🥰🥰
+![Coolbooy's Logo](https://i.ibb.co/ppJGPN9/IMG-20251210-003443-543.jpg)
+# 🤝 HELLO... ➡️➡️➡️ HI IM-COOL-BOOY
 
 I'm a passionate software developer specializing in web development and cloud computing.
 
