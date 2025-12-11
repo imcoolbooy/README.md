@@ -8,6 +8,7 @@ I'm a passionate software developer specializing in web development and cloud co
 
 ## 🛠️ Skills ⬇️⬇️⬇️
 
+• 🚀 Software Dev | 💻 Code Architect | ☢️ Innovator | ⚙️ Backend Wizard
 ### Languages
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -104,7 +105,7 @@ I'm a passionate software developer specializing in web development and cloud co
 
 You can contact me at [telegram](https://t.me/IMCOOLBOOY551). I'm always open to discussing new projects, ideas, or just chatting about technology.🖥️
 
-![Coolbooy's Logo](https://i.ibb.co/pr0WFd85/file-0000000005b472079bd9b8102c34517f.png)
+![Coolbooy's Logo](https://i.ibb.co/fVrBkQWh/file-0000000005b472079bd9b8102c34517f.png)
 
 📌️ License
 
